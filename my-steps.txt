@@ -106,13 +106,20 @@ cp -r veggies plants
 mkdir drinks
 rm -r drinks
 ### Step 4
-
+git int
+git add .
+git commit -m "first commit in unit1-git-practice
 
 ### Step 5
-
+$ git remote add origin https://github.com/Dylan12734/unit1-git-practice.git
+git branch -M main
+git push -u origin main
 
 ### Step 6
-
+touch menu.txt 
+git add .
+git commit m-"second commit"
+git push
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
